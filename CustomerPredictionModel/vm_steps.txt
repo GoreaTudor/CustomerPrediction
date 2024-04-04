@@ -1,0 +1,8 @@
+Creating a VM:
+
+
+
+Working with python:
+- pip install pandas
+- pip install scikit-learn
+- pip install tensorflow
